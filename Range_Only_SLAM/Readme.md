@@ -20,7 +20,7 @@ Then, launch the code with:
   cd build
   cmake ..
   make
-  ./Range\_Only\_SLAM
+  ./Range_Only_SLAM
 ```
 
 
