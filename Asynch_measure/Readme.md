@@ -27,7 +27,10 @@ Then, launch the code with:
 You should obtain this figure:
 
 
-<img src="images/image1.png">
+<p align="center">
+  <img width="750" src="images/image1.png">
+</p>
+
 
  
 
