@@ -27,14 +27,17 @@ Then, launch the code with:
 
 You should obtain these figures:
 
+<p align="center">
+  <img width="750" src="images/deadreckoning.png">
+</p>
 
-<img align="right" src="images/deadreckoning.png" width=700>
+* the fist figure shows the deadrecking localization based on the knowledge of initial position the evolution of the robot
 
-the fist figure is the deadrecking localization based on the knowledge of initial position the evolution of the robot
+<p align="center">
+<img  src="images/Range_SLAM.png" width=750>
+<p/>
 
-<img align="right" src="images/Range_SLAM.png" width=700>
-
-the second figure is the SLAM using only range measurements, in which intervals for both robot pose and beacons positions are obtained (contrated) using contractors
+* the second figure shows the SLAM using only range measurements, in which intervals for both robot pose and beacons positions are obtained (contrated) using contractors
 
 
 
