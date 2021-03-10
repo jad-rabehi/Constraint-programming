@@ -31,7 +31,7 @@ You should obtain these figures:
   <img width="750" src="images/deadreckoning.png">
 </p>
 
-* the fist figure shows the deadrecking localization based on the knowledge of initial position the evolution of the robot
+* the fist figure shows the deadrecking localization based on the knowledge of initial position and the evolution of the robot
 
 <p align="center">
 <img  src="images/Range_SLAM.png" width=750>
