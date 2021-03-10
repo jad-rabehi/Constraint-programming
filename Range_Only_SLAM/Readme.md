@@ -27,13 +27,16 @@ Then, launch the code with:
 
 You should obtain these figures:
 
-the fist figure is the deadrecking localization based on the knowledge of initial position the evolution of the robot
 
 <img align="right" src="images/deadreckoning.png" width=700>
 
+the fist figure is the deadrecking localization based on the knowledge of initial position the evolution of the robot
+
+<img align="right" src="images/Range_SLAM.png" width=700>
+
 the second figure is the SLAM using only range measurements, in which intervals for both robot pose and beacons positions are obtained (contrated) using contractors
 
-<img align="left" src="images/Range_SLAM.png" width=700>
+
 
 
 
