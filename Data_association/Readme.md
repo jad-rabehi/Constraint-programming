@@ -31,7 +31,7 @@ You should obtain the following :
   <img width="750" src="images/anim_image.gif">
 </p>
 
-* this figure shows the tube estimation of the robot localization togather with the association of the coordinates of detected landmarks with the map.
+* this figure shows the position estimation of the robot (localization) while associating the  detected landmarks with the map.
 
 
 
