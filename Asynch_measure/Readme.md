@@ -28,7 +28,7 @@ You should obtain this figure:
 
 
 <p align="center">
-  <img width="750" src="images/image1.png">
+  <img width="600" src="images/image1.png">
 </p>
 
 

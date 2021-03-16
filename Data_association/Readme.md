@@ -28,7 +28,7 @@ Then, launch the code with:
 You should obtain the following :
 
 <p align="center">
-  <img width="750" src="images/anim_image.gif">
+  <img width="650" src="images/anim_image.gif">
 </p>
 
 * this figure shows the position estimation of the robot (localization) while associating the  detected landmarks with the map.

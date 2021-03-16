@@ -20,7 +20,7 @@ Launch the graphical viewer first using:
   VIBes-viewer
 ```
 ---
-Then, launch the code with:
+Then, run the code with:
 ```bash
   cd build
   cmake ..

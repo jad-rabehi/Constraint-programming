@@ -15,7 +15,7 @@ Launch the graphical viewer first using:
   VIBes-viewer
 ```
 ---
-Then, launch the code with:
+Then, run the code with:
 ```bash
   cd build
   cmake ..
@@ -28,16 +28,16 @@ Then, launch the code with:
 You should obtain these figures:
 
 <p align="center">
-  <img width="750" src="images/deadreckoning.png">
+  <img width="700" src="images/deadreckoning.png">
 </p>
 
 * the fist figure shows the deadrecking localization based on the knowledge of initial position and the evolution of the robot
 
 <p align="center">
-<img  src="images/Range_SLAM.png" width=750>
+<img  src="images/Range_SLAM.png" width=700>
 <p/>
 
-* the second figure shows the SLAM using only range measurements, in which intervals for both robot pose and beacons positions are obtained (contrated) using contractors
+* the second figure shows the SLAM using only range measurements, in which intervals for both robot pose (blue tube) and beacons positions (black rectangles) are obtained (contrated) using contractors
 
 
 
